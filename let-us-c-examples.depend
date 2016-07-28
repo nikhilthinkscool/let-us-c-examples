@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1469675861 source:/home/nikhil/work/let-us-c-examples/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1469675749 source:/home/nikhil/work/let-us-c-examples/hellonikhilworld.c
+	<stdio.h>
+
